@@ -1,0 +1,68 @@
+RGIA	Gangaram Hyderabad Chanda Nagar
+RGIA	Kurmaguda
+RGIA	Rajendranagar Mandal
+RGIA	Kismatpur
+Gangaram Hyderabad Chanda Nagar	Kurmaguda
+Kurmaguda	Kothapet Village Secunderabad
+Kurmaguda	Sivarampalli
+Rajendranagar Mandal	Sivarampalli
+Sivarampalli	Kothapet Village Secunderabad
+Kothapet Village Secunderabad	L B Nagar
+Sivarampalli	Attapur
+Rajendranagar Mandal	Attapur
+Kismatpur	Attapur
+Kismatpur	Manikonda
+Manikonda	Gachibowli
+Attapur	Khairatabad
+Gachibowli	Gangaram Hyderabad Chanda Nagar
+Gangaram Hyderabad Chanda Nagar	Miyapur
+Gachibowli	Miyapur
+Gachibowli	Kondapur
+Miyapur	Kondapur
+Kondapur	Bachupally
+Gachibowli	Hitec City
+Hitec City	Bachupally
+Hitec City	Kukatpally
+Hitec City	Jubilee Hills
+Bachupally	Kukatpally
+Bachupally	Balanagar
+Kukatpally	Balanagar
+Jubilee Hills	Balanagar
+Jubilee Hills	Banjara Hills
+Banjara Hills	Ameerpet
+Balanagar	Quthbullapur
+Ameerpet	Quthbullapur
+Ameerpet	Bakaram
+Banjara Hills	Khairatabad
+Balanagar	Ameerpet
+Quthbullapur	Trimulgherry
+Trimulgherry	Malkajgiri
+Bakaram	Malkajgiri
+Khairatabad	Bakaram
+Khairatabad	L B Nagar
+L B Nagar	Nagole
+Nagole	Uppal
+Bakaram	Uppal
+Uppal	Pocharam
+Nagole	Daira Hyderabad
+Daira Hyderabad	Pocharam
+Uppal	Moula Ali
+Pocharam	Kapra
+Pocharam	Dammaiguda
+Moula Ali	Kapra
+Kapra	Dammaiguda
+Dammaiguda	Birla Institute of Technology Hyderabad
+Kapra	Sainikpuri
+Moula Ali	Sainikpuri
+Moula Ali	Yapral
+Sainikpuri	Birla Institute of Technology Hyderabad
+Malkajgiri	Yapral
+Yapral	Birla Institute of Technology Hyderabad
+Trimulgherry	Kompally Hyderabad
+Kompally Hyderabad	Old Alwal
+Old Alwal	Alwal
+Alwal	Birla Institute of Technology Hyderabad
+Alwal	Bolarum
+Bolarum	Birla Institute of Technology Hyderabad
+Bolarum	Medchal
+Medchal	Birla Institute of Technology Hyderabad
